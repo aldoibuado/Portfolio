@@ -33,7 +33,7 @@ function Navbar() {
     px-4 text-white bg-black fixed"
     >
       <div>
-        <h1 className="text-5xl font-signature ml-2">Aldo</h1>
+        <h1 className="text-5xl font-signature ml-2">Aldo Ibuado</h1>
       </div>
 
       <ul className="hidden md:flex">
