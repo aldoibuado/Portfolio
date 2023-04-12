@@ -44,16 +44,16 @@ function SocialLinks() {
           <BsFillPersonLinesFill size={25} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "https://drive.google.com/file/d/1ZvCf1I8YWC5Y0N1GWLyioHSaQUg8H8SU/view?usp=share_link",
       style: "rounded-br-md",
-      download: true,
+    //   download: true,
     },
   ];
 
   return (
     <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
       <ul>
-        {links.map(({ id, child, href, style, download }) => (
+        {links.map(({ id, child, style, href }) => (
           <li
             key={id}
             className="flex justify-between items-center w-40 h-14 
@@ -62,7 +62,7 @@ function SocialLinks() {
             <a
               href={href}
               className="flex justify-between items-center w-full text-white"
-              download={download}
+            //   download={download}
               target="_blank"
               rel="noreferrer"
             >
