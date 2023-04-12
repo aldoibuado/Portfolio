@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.56ccbb09.css",
-    "main.js": "/Portfolio/static/js/main.21b419a4.js",
+    "main.css": "/Portfolio/static/css/main.2936d3ca.css",
+    "main.js": "/Portfolio/static/js/main.156da929.js",
     "static/media/Rock On.png": "/Portfolio/static/media/Rock On.90455df26059d06beb14.png",
     "static/media/The Red Place.png": "/Portfolio/static/media/The Red Place.b07bd75310cae5732272.png",
     "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.2acdbcfc70e5efdeb2ac.jpg",
@@ -15,11 +15,11 @@
     "static/media/Note Taker.png": "/Portfolio/static/media/Note Taker.dded44dd5633736df243.png",
     "static/media/graphql.png": "/Portfolio/static/media/graphql.0201ad68ec20503d5caa.png",
     "index.html": "/Portfolio/index.html",
-    "main.56ccbb09.css.map": "/Portfolio/static/css/main.56ccbb09.css.map",
-    "main.21b419a4.js.map": "/Portfolio/static/js/main.21b419a4.js.map"
+    "main.2936d3ca.css.map": "/Portfolio/static/css/main.2936d3ca.css.map",
+    "main.156da929.js.map": "/Portfolio/static/js/main.156da929.js.map"
   },
   "entrypoints": [
-    "static/css/main.56ccbb09.css",
-    "static/js/main.21b419a4.js"
+    "static/css/main.2936d3ca.css",
+    "static/js/main.156da929.js"
   ]
 }
