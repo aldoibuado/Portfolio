@@ -4,10 +4,38 @@ import ryrm from "../assests/Portfolio/Rate Your Roommate.png";
 import notetaker from "../assests/Portfolio/Note Taker.png";
 import scheduler from "../assests/Portfolio/Work Day Scheduler.png";
 import password from "../assests/Portfolio/password generator.png";
-import team from "../assests/Portfolio/Team Profile Generator.png";
+// import team from "../assests/Portfolio/Team Profile Generator.png";
 import website from "../assests/Portfolio/The Red Place.png";
 
 function Portfolio() {
+
+    const projects = [
+        {
+            id: 1,
+            src: rockon
+        },
+        {
+            id: 2,
+            src: ryrm
+        },
+        {
+            id: 3,
+            src: notetaker
+        },
+        {
+            id: 4,
+            src: scheduler
+        },
+        {
+            id: 5,
+            src: password
+        },
+        {
+            id: 6,
+            src: website
+        },
+    ]
+
   return (
     <div
       name="portfolio"
@@ -32,9 +60,11 @@ function Portfolio() {
           className="grid sm:grid-cols-2 md:grid-cols-3 gap-8
         px-12 sm:px-0"
         >
-          <div className="shadow-md shadow-gray-600 rounded-lg">
+        {
+        projects.map(({id, src}) => (
+            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
             <img
-              src={rockon}
+              src={src}
               alt=""
               className="rounded-md duration-200 hover:scale-105"
             />
@@ -45,6 +75,8 @@ function Portfolio() {
               hover:scale-105">GitHub Link</button>
             </div>
           </div>
+        ))
+        }
         </div>
       </div>
     </div>
