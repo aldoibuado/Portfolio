@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c4c9fc29.css",
-    "main.js": "/Portfolio/static/js/main.f9cfa4a8.js",
+    "main.css": "/Portfolio/static/css/main.9fab3414.css",
+    "main.js": "/Portfolio/static/js/main.bf4f3321.js",
     "static/media/Rock On.png": "/Portfolio/static/media/Rock On.90455df26059d06beb14.png",
     "static/media/The Red Place.png": "/Portfolio/static/media/The Red Place.b07bd75310cae5732272.png",
     "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.2acdbcfc70e5efdeb2ac.jpg",
     "static/media/Rate Your Roommate.png": "/Portfolio/static/media/Rate Your Roommate.18dd37c1527e395a527c.png",
-    "static/media/Team Profile Generator.png": "/Portfolio/static/media/Team Profile Generator.bd917e2ad542fb7a4d99.png",
+    "static/media/react.png": "/Portfolio/static/media/react.b122c4bae210d3dd3993.png",
+    "static/media/css.png": "/Portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.bee447a50907c4b8a2cf.png",
     "static/media/Work Day Scheduler.png": "/Portfolio/static/media/Work Day Scheduler.49003d165a3f8e60ac9f.png",
     "static/media/password generator.png": "/Portfolio/static/media/password generator.b5a5611f5b5ee22d7f2a.png",
+    "static/media/github.png": "/Portfolio/static/media/github.7c8f7736007664c4b0ba.png",
     "static/media/Note Taker.png": "/Portfolio/static/media/Note Taker.dded44dd5633736df243.png",
+    "static/media/graphql.png": "/Portfolio/static/media/graphql.0201ad68ec20503d5caa.png",
     "index.html": "/Portfolio/index.html",
-    "main.c4c9fc29.css.map": "/Portfolio/static/css/main.c4c9fc29.css.map",
-    "main.f9cfa4a8.js.map": "/Portfolio/static/js/main.f9cfa4a8.js.map"
+    "main.9fab3414.css.map": "/Portfolio/static/css/main.9fab3414.css.map",
+    "main.bf4f3321.js.map": "/Portfolio/static/js/main.bf4f3321.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4c9fc29.css",
-    "static/js/main.f9cfa4a8.js"
+    "static/css/main.9fab3414.css",
+    "static/js/main.bf4f3321.js"
   ]
 }
