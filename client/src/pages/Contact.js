@@ -24,8 +24,8 @@ function Contact() {
         </div>
 
         <div className="flex justify-center items-center">
-          <form className="flex flex-col w-full md:w-1/2" method="post"
-          action='https://forms.un-static.com/forms/9822ee11e7f7ce07e39312fb4dab95d3c0b8de0c'>
+          <form className="flex flex-col w-full md:w-1/2" method="POST"
+          action='https://getform.io/f/7b72feff-3ec7-4d0b-9c7c-df0f12e26f65'>
             <input
               type="text"
               name="name"
