@@ -79,12 +79,12 @@ function Portfolio() {
         >
           {projects.map(({ id, src, name, link, GitHub }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
-              <img
+              <a href={link}><img
                 src={src}
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
-              />
-              <div>
+              /></a>
+              <div className="flex items-center justify-center font-bold">
                 {name}
               </div>
               <div className="flex items-center justify-center">
