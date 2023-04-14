@@ -1,42 +1,77 @@
 import React from "react";
+import html from "../assests/HTML.png";
 import css from "../assests/css.png";
-import github from "../assests/github.png";
-import graphgl from "../assests/graphql.png";
 import javascript from "../assests/javascript.png";
+import graphgl from "../assests/graphql.png";
+import markdown from "../assests/markdown.png";
+import node from "../assests/node.js.png";
+import express from "../assests/ExpressJS.png";
 import react from "../assests/react.png";
-// import "../styles/Experience.css";
+import github from "../assests/github.png";
+import sql from "../assests/SQL.png";
+import "../styles/Experience.css";
 
 function Experience() {
   const skills = [
     {
       id: 1,
+      src: html,
+      title: "HTML5",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 2,
       src: css,
       title: "CSS",
       style: "shadow-blue-500",
     },
     {
-      id: 2,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-500",
-    },
-    {
       id: 3,
-      src: graphgl,
-      title: "GraphQL",
-      style: "shadow-pink-400",
-    },
-    {
-      id: 4,
       src: javascript,
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
     {
+      id: 4,
+      src: graphgl,
+      title: "GraphQL",
+      style: "shadow-pink-400",
+    },
+    {
       id: 5,
+      src: markdown,
+      title: "markdown",
+      style: "shadow-white",
+    },
+    {
+      id: 6,
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-600",
+    },
+    {
+      id: 7,
+      src: express,
+      title: "Express.js",
+      style: "shadow-yellow-600",
+    },
+    {
+      id: 8,
       src: react,
       title: "React",
       style: "shadow-blue-600",
+    },
+    {
+      id: 9,
+      src: github,
+      title: "GitHub",
+      style: "shadow-gray-600",
+    },
+    {
+      id: 10,
+      src: sql,
+      title: "SQL",
+      style: "shadow-gray-600",
     },
   ];
 
@@ -50,7 +85,7 @@ function Experience() {
         className="max-w-screen-lg mx-auto p-4 flex flex-col
         justify-center w-full h-full text-white"
       >
-        <div>
+        <div className="experience1">
           <p
             className="text-4xl font-bold border-b-4
                 border-gray-500 p-2 inline"
