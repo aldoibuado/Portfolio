@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4291e798.css",
-    "main.js": "/Portfolio/static/js/main.5f8850c4.js",
+    "main.css": "/Portfolio/static/css/main.00b47d65.css",
+    "main.js": "/Portfolio/static/js/main.22e6f71e.js",
     "static/media/Rock On.png": "/Portfolio/static/media/Rock On.90455df26059d06beb14.png",
     "static/media/The Red Place.png": "/Portfolio/static/media/The Red Place.2d662213bb4b74fbb955.png",
     "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.2acdbcfc70e5efdeb2ac.jpg",
@@ -12,17 +12,16 @@
     "static/media/css.png": "/Portfolio/static/media/css.19c8605d6b2861f5fbe0.png",
     "static/media/HTML.png": "/Portfolio/static/media/HTML.4de5d2224c60b7fbde73.png",
     "static/media/Work Day Scheduler.png": "/Portfolio/static/media/Work Day Scheduler.49003d165a3f8e60ac9f.png",
-    "static/media/SQL.png": "/Portfolio/static/media/SQL.96af83e68e3b32fb2dd7.png",
     "static/media/password generator.png": "/Portfolio/static/media/password generator.b5a5611f5b5ee22d7f2a.png",
     "static/media/github.png": "/Portfolio/static/media/github.a3f151acbf03855fd949.png",
     "static/media/Note Taker.png": "/Portfolio/static/media/Note Taker.dded44dd5633736df243.png",
     "static/media/markdown.png": "/Portfolio/static/media/markdown.4dd9eb373855e6f4401e.png",
     "index.html": "/Portfolio/index.html",
-    "main.4291e798.css.map": "/Portfolio/static/css/main.4291e798.css.map",
-    "main.5f8850c4.js.map": "/Portfolio/static/js/main.5f8850c4.js.map"
+    "main.00b47d65.css.map": "/Portfolio/static/css/main.00b47d65.css.map",
+    "main.22e6f71e.js.map": "/Portfolio/static/js/main.22e6f71e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4291e798.css",
-    "static/js/main.5f8850c4.js"
+    "static/css/main.00b47d65.css",
+    "static/js/main.22e6f71e.js"
   ]
 }
