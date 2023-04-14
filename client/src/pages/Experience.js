@@ -8,8 +8,6 @@ import node from "../assests/node.js.png";
 import express from "../assests/ExpressJS.png";
 import react from "../assests/react.png";
 import github from "../assests/github.png";
-import sql from "../assests/SQL.png";
-import "../styles/Experience.css";
 
 function Experience() {
   const skills = [
@@ -65,12 +63,6 @@ function Experience() {
       id: 9,
       src: github,
       title: "GitHub",
-      style: "shadow-gray-600",
-    },
-    {
-      id: 10,
-      src: sql,
-      title: "SQL",
       style: "shadow-gray-600",
     },
   ];
