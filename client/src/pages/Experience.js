@@ -5,9 +5,9 @@ import javascript from "../assests/javascript.png";
 import graphgl from "../assests/graphql.png";
 import markdown from "../assests/markdown.png";
 import node from "../assests/node.js.png";
-import express from "../assests/ExpressJS.png";
-import react from "../assests/react.png";
-import github from "../assests/github.png";
+// import express from "../assests/ExpressJS.png";
+// import react from "../assests/react.png";
+// import github from "../assests/github.png";
 
 function Experience() {
   const skills = [
@@ -47,24 +47,24 @@ function Experience() {
       title: "Node.js",
       style: "shadow-green-600",
     },
-    {
-      id: 7,
-      src: express,
-      title: "Express.js",
-      style: "shadow-yellow-600",
-    },
-    {
-      id: 8,
-      src: react,
-      title: "React",
-      style: "shadow-blue-600",
-    },
-    {
-      id: 9,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-600",
-    },
+    // {
+    //   id: 7,
+    //   src: express,
+    //   title: "Express.js",
+    //   style: "shadow-yellow-600",
+    // },
+    // {
+    //   id: 8,
+    //   src: react,
+    //   title: "React",
+    //   style: "shadow-blue-600",
+    // },
+    // {
+    //   id: 9,
+    //   src: github,
+    //   title: "GitHub",
+    //   style: "shadow-gray-600",
+    // },
   ];
 
   return (
